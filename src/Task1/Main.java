@@ -8,6 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(isSqrt(15));
+        System.out.println(isSqrt(15));
 
 
     }
